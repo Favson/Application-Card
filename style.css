@@ -1,0 +1,36 @@
+.firstDiv{
+    background-color: rgb(226, 226, 226);
+}
+
+.newprosDiv{
+    align-items: center;
+}
+
+.newPros{
+    width: 70%;
+}
+
+.myNTI{
+    width: 50%;
+}
+
+#DOB{
+    padding-right: 60px;
+}
+
+.apply{
+    background-color: rgb(2, 125, 2);
+}
+
+@media screen and (max-width:456px) {
+    #DOB{
+        padding-right: 45px;
+    }
+    .newPros{
+        width: 100%;
+    }
+    
+    .myNTI{
+        width: 100%;
+    }
+}
